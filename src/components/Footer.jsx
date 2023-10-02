@@ -10,18 +10,18 @@ const Footer = () => {
         
         
 <div className='flex justify-center'>
-  <div className='flex items-center gap-5 text-slate-300'>
+  <div className='flex items-center gap-5 text-slate-300 text-3xl'>
   <a href="https://github.com/SalmanGoheer" target='_blank'>
-  <FontAwesomeIcon className="w-8 sm:w-10 hover:text-white" icon={faGithub} />
+  <FontAwesomeIcon className="hover:text-white" icon={faGithub} />
   </a>
   <a href="https://www.linkedin.com/in/salmangoheer/" target='_blank'>
-  <FontAwesomeIcon className="w-8 sm:w-10 hover:text-white" icon={faLinkedin} />
+  <FontAwesomeIcon className="hover:text-white" icon={faLinkedin} />
   </a>
   <a href="https://twitter.com/SalmanGoheer" target='_blank'>
-  <FontAwesomeIcon className="w-8 sm:w-10 hover:text-white" icon={faTwitter} />
+  <FontAwesomeIcon className="hover:text-white" icon={faTwitter} />
   </a>
   <a href="https://www.facebook.com/pg3107" target='_blank'>
-  <FontAwesomeIcon className="w-8 sm:w-10 hover:text-white" icon={faFacebook} />
+  <FontAwesomeIcon className="hover:text-white" icon={faFacebook} />
   </a>
   </div>
 </div>

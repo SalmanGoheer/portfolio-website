@@ -43,14 +43,18 @@ function HeroSection() {
             Empowering Ideas and Crafting Digital Dreams with Code Magic.
           </p>
           <div className="mt-10">
+            <a href="https://m.me/pg3107" target='_blank'>
             <button className="w-full h-full sm:w-fit px-1 bg-gradient-to-r from-purple-400 to-yellow-400 hover:bg-gradient-to-l sm:px-5 py-4 rounded-full m-2 font-bold text-gray-800 hover:text-white ">
               Hire Me
             </button>
+            </a>
+            <a href="https://bit.ly/3PZ9ThH" target='_blank'>
             <button className="w-full h-full sm:w-fit px-1 bg-gradient-to-r from-purple-400 to-yellow-400 hover:bg-gradient-to-l sm:px-1 py-1 rounded-full m-2 font-bold text-gray-400 hover:text-white">
               <span className="block bg-gradient-to-l from-gray-700 via-gray-900 to-black rounded-full px-3 py-3 ">
                 Download CV
               </span>
             </button>
+            </a>
           </div>
         </motion.div>
         <motion.div
