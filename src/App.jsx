@@ -10,7 +10,7 @@ import Services from './components/Services'
 function App() {
   return (
     <div className="text-white flex min-h-screen flex-col items-center bg-gradient-to-l from-gray-700 via-gray-900 to-black ">
-      <div className="container mx-auto py-5 px-5 ">
+      <div className="container mx-auto py-5 px-5 overflow-x-hidden">
         <Navbar />
         <HeroSection />
         <About />
